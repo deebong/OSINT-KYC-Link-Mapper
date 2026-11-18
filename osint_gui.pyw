@@ -625,7 +625,7 @@ def build_connection_graph(records, output_html, only_connected=False):
 class OSINTExtractorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("OSINT Intelligence & KYC Document Link Extractor — v5 Enterprise & Thermal Edition")
+        self.root.title("OSINT KYC Link Mapper - v1")
         self.root.geometry("980x760")
         self.root.minsize(900, 680)
         self.root.configure(bg="#0f172a")
@@ -691,7 +691,7 @@ class OSINTExtractorApp:
         title_row.pack(fill="x")
         tk.Label(
             title_row,
-            text="🛡️ Offline OSINT & KYC Document Intelligence Suite (v5)",
+            text="🛡️ OSINT KYC Link Mapper (v1)",
             font=("Segoe UI", 14, "bold"),
             bg="#1e293b",
             fg="#38bdf8"
