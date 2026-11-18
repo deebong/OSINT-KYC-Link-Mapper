@@ -1,4 +1,4 @@
-# Offline OSINT Document & Entity Link Intelligence Suite (v1.0)
+# OSINT KYC Link Mapper
 
 100% air-gapped Windows desktop GUI for bulk OCR, Indian KYC/ID entity extraction (English, Hindi, and Tamil), multi-core drive triage, and interactive network link visualization.
 
@@ -99,4 +99,4 @@ Target_Dataset_or_Drive/
 
 ## License
 
-Released under the **MIT License** — Free for personal, compliance, journalistic, and authorized investigative use.
+Released under the **MIT License** - Free for personal, compliance, journalistic, and authorized investigative use.
